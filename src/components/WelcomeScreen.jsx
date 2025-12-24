@@ -58,7 +58,7 @@ const WelcomeScreen = ({ userName, onSendMessage }) => {
             </div>
 
             <div className="welcome-text">
-                <h1>Hey! {userName}</h1>
+                <h1>Hey!</h1>
                 <h2>What can I help with?</h2>
             </div>
 
