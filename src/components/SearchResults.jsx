@@ -91,7 +91,7 @@ const SearchResults = ({ claim, papers, searchMetadata }) => {
                     
                     {showVerification && isVerifying && (
                         <div className="verification-loading">
-                            <p>🤖 AI analyzing with Groq</p>
+                            <p> Analyzing claims </p>
                             <p className="loading-subtitle">Takes 5-10 seconds...</p>
                         </div>
                     )}
